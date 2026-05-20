@@ -6,6 +6,7 @@ My LeetCode solutions and notes while learning data structures and algorithms in
 |---|---------|------------|----------|------|-------|
 | 1 | Two Sum | Easy      |Brute Force| O(n²)| O(1)  |
 | 9 | Palindrome Number | Easy | Two Pointers / String | O(n) | O(n) |
+| 13 | Roman to Integer | Easy | String / Mapping | O(n) | O(1) |
 ## Goals
 
 - Practice problem-solving consistently
