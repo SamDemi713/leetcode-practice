@@ -5,7 +5,7 @@ My LeetCode solutions and notes while learning data structures and algorithms in
 | # | Problem | Difficulty | Approach | Time | Space |
 |---|---------|------------|----------|------|-------|
 | 1 | Two Sum | Easy      |Brute Force| O(n²)| O(1)  |
-
+| 9 | Palindrome Number | Easy | Two Pointers / String | O(n) | O(n) |
 ## Goals
 
 - Practice problem-solving consistently
